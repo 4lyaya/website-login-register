@@ -33,6 +33,7 @@ Sebuah aplikasi web sederhana untuk sistem autentikasi (login/register) mengguna
 
 ## 📁 Struktur Proyek
 
+```text
 website-login-register/
 ├── config/
 │ └── database.php # Konfigurasi database
@@ -49,6 +50,7 @@ website-login-register/
 ├── login.php # Form login
 ├── logout.php # Proses logout
 └── register.php # Form registrasi
+```
 
 ---
 
